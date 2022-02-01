@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-void main(){
+// int
+int main(){
     char grade;
 
     printf("Enter your grade \n:");
