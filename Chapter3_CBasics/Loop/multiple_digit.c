@@ -22,6 +22,6 @@ n = n/10;
 
 }    
 
-printf("Sum is=%d",sum);    
+printf("Sum is=%d",sum);
 
-}   
+} 

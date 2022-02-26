@@ -7,3 +7,4 @@ void main() {
     average = (mark1 + mark2) / 2;
     printf("Average = %f", average);
 }
+//typedef
