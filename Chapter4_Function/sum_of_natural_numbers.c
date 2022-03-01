@@ -26,3 +26,4 @@ void main ()
         printf ("Your sum of number %d is %d  ",n,nat);
 
 }
+//sum of natural numbers
