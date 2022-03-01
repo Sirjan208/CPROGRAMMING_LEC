@@ -10,6 +10,6 @@ void main()
 {
     int a,b;
     printf("Enter the two numbers");
-    scanf("%d%d",&a,&b);
+    scanf("%d%d",&a,&b); 
     add(a,b);
 }
